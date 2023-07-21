@@ -3,11 +3,11 @@ menu = """
 [d] Depositar
 [s] Sacar 
 [e] Extrato
-[q] Sair 
+[q] Sair
 
 => """
 
-saldo = 0
+saldo = 1
 limite = 500
 extrato = ""
 numero_saques = 0 
